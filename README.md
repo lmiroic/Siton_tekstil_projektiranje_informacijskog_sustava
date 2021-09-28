@@ -1,1 +1,2 @@
 # Siton_tekstil_projektiranje_informacijskog_sustava
+Projektni zadatak iz kolegija Projektiranje informacijskih sustava na Fakultetu organizacije i informatike. Na ovom projektnom zadatku analizirali smo poslovni sustav poduzeća Siton-tekstil d.o.o. i na taj način smo savladali vještine dokumentiranja i upravljanjem znanjem koje smo stekli na ovom kolegiju, krozu svaku fazu ovog projekta stekli smo novo znanje modeliranja poslovnog sustava te analizu poslovnih dokumenata koji su nam bili dostupni. 
